@@ -11,6 +11,8 @@ This is a project made for fun with no intention to harm anyone (except the targ
 - You probably have to have Firefox installed in your computer for it to work, I mean, I haven't tested it, but it shouldn't work.
 - You probably don't want to close the Firefox when it opens, otherwise it will crash the script.
 
+######step by step:
+
 1. When the script starts, it will boot the Firefox browser, it will redirect to the `https://web.whatsapp.com/` page;
 2. When the page load, take your phone, select the `WhatsApp Web` option in the "More" menu;
 3. You'll start the WhatsApp Web app, When your contacts list appear, switch to the console;
