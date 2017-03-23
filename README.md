@@ -5,13 +5,13 @@ This is a simple python script that uses the selenium driver to open the [webwha
 
 This is a project made for fun with no intention to harm anyone (except the target LOL), it is totally free, and you can read, modify, improve it, use in any way you want. If you made an improvement to it, just make a pull request, I'd be happy to see what you've done.
 
-##How to:
+## How to:
 
-######Recommendation:
+###### Recommendation:
 - You probably have to have Firefox installed in your computer for it to work, I mean, I haven't tested it, but it shouldn't work.
 - You probably don't want to close the Firefox when it opens, otherwise it will crash the script.
 
-######step by step:
+###### step by step:
 
 1. When the script starts, it will boot the Firefox browser, it will redirect to the `https://web.whatsapp.com/` page;
 2. When the page load, take your phone, select the `WhatsApp Web` option in the "More" menu;
